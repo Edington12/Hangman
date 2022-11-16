@@ -2,4 +2,20 @@ node_modules/
 
 #This is a NOTES file
 NOTES.md 
+#This is a practice while loop
+
+let m = 0;
+
+while (m <= 12) {
+  m++;
+  console.log("Birthday Month = ");
+
+}
+let text = "";
+let i = 0;
+while (i < 10) {
+  text += "The number is " + i;
+  i++;
+  console.log(text);
+}
 
